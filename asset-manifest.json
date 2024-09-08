@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LinksCard/static/css/main.f1ecbfb3.css",
+    "main.js": "/LinksCard/static/js/main.30054cb2.js",
+    "index.html": "/LinksCard/index.html",
+    "main.f1ecbfb3.css.map": "/LinksCard/static/css/main.f1ecbfb3.css.map",
+    "main.30054cb2.js.map": "/LinksCard/static/js/main.30054cb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ecbfb3.css",
+    "static/js/main.30054cb2.js"
+  ]
+}
