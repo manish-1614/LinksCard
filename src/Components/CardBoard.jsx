@@ -8,7 +8,7 @@ const CardBoard = () => {
 
       {
         linksData.map((item, index) => (
-            <Tab key={index} title={item.title} logo={item.logo} url={item.url} />
+            <Tab key={index} title={item.text} logo={item.iconName} url={item.url} />
         ))
       }
     </div>
