@@ -10,6 +10,11 @@ export const linksData = [
         iconName: "fi/FiMail"
     },
     {
+        text: "Website",
+        url:"https://manish-1614.github.io/ManishPrajapati",
+        iconName: "fa/FaRegUserCircle"
+    },
+    {
         text: "LinkedIn",
         iconName: "fa/FaLinkedin",
         url: "https://www.linkedin.com/in/mkprajapati1614/",
